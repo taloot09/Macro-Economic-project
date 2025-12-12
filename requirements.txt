@@ -1,0 +1,9 @@
+pandas
+numpy
+openai
+matplotlib
+plotly
+langchain
+python-dotenv
+fastapi
+uvicorn
